@@ -19,11 +19,6 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 
 ### 🔭 Current Projects
 
-- 🚀 **AutoUdemyLoot**  
-  Java-based Selenium-powered tool that auto-enrolls in free Udemy courses.  
-  ✨ Features: JavaFX UI, light/dark mode, animations, duplicate prevention  
-  📌 *Portfolio Highlight Project*
-
 - 🚆 **Train Ticket Booking System**  
   A full-stack booking system with real-time validations and dashboards  
   💡 Tech: Angular + Node.js + MySQL  
@@ -49,7 +44,6 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| **AutoUdemyLoot** | GUI tool that automatically finds & enrolls in free Udemy courses | Java, Selenium, JavaFX | [GitHub Repo](https://github.com/YOUR_USERNAME/AutoUdemyLoot) |
 | **Train Booking System** | Online train reservation system with backend logic & validation | Angular, Node.js, MySQL | [GitHub Repo](https://github.com/YOUR_USERNAME/TrainBookingSystem) |
 | **Developer Portfolio** | Cyberpunk-themed portfolio with animated sections & professional vibe | HTML, CSS, JS | [Live Site](https://your-portfolio-link.com) / [GitHub Repo](https://github.com/YOUR_USERNAME/portfolio) |
 
@@ -69,7 +63,6 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Challa1549&show_icons=true&theme=tokyonight" alt="Sreedhar's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Challa1549&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Sreedhar's GitHub Streak Stats"/>
 </p>
 
 ---
@@ -77,9 +70,10 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 
 ### 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 💼 LinkedIn: [linkedin.com/in/sreedharreddychalla/](https://www.linkedin.com/in/sreedharreddychalla/)
+- 📧 Email: challasreedharreddy1549@gmail.com
+- 🌐 Portfolio: [sreedharreddychalla.netlify.app/](https://sreedharreddychalla.netlify.app/)
+- 🔗 Instagram: [instagram.com/c.sreedhar.reddy/](https://www.instagram.com/c.sreedhar.reddy/)
 
 ---
 
