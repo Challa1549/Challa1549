@@ -62,17 +62,7 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 - 🌐 Attended international tech conferences
 - 🎤 Organized & hosted college fests & technical events
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
 
 ### 📫 Contact
 
