@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final year B.Tech student & constant learner  
+- 🎓 Graduated B.Tech student & constant learner  
 - 🛠️ Backend enthusiast with a flair for clean design  
 - 💡 Interested in **AI/ML**, automation tools, and performance-first development  
 - 🧠 I love rewiring my brain with deep JS, system design, and meaningful challenges  
