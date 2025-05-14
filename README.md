@@ -62,6 +62,17 @@ I'm a passionate and driven final-year B.Tech student who thrives on solving rea
 - 🌐 Attended international tech conferences
 - 🎤 Organized & hosted college fests & technical events
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Challa1549&show_icons=true&theme=tokyonight" alt="Sreedhar's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Challa1549&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="Sreedhar's GitHub Streak Stats"/>
+</p>
+
+---
 
 
 ### 📫 Contact
