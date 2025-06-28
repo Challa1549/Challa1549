@@ -1,6 +1,6 @@
 <!-- Centered Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Sreedhar+%F0%9F%91%8B;Backend+Dev+%7C+Team+Lead+%7C+Automation+Builder;Crafting+clean+code+and+real-world+projects+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Sreedhar+%F0%9F%91%8B;Dev+%7C+Team+Lead+%7C+Automation+Builder;Crafting+clean+code+and+real-world+projects+daily" alt="Typing SVG" />
 </p>
 
 ---
