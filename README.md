@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and driven final-year B.Tech student who thrives on solving real-world problems with code. I specialize in backend development and automation, and I’ve led every project and hackathon I’ve participated in — not just as a developer, but as a **team lead** and **vision-setter**. From building an **automated Udemy looter tool** to **end-to-end ticket booking systems**, I focus on quality, creativity, and usability.
+I'm a passionate and driven recent CS Undergrad who thrives on solving real-world problems with code. I specialize in backend development and automation, and I’ve led every project and hackathon I’ve participated in — not just as a developer, but as a **team lead** and **vision-setter**. From building an **automated Udemy looter tool** to **end-to-end ticket booking systems**, I focus on quality, creativity, and usability.
 
 - 🧑‍💻 Currently interning as a Software Developer
 - 🛠️ Skilled in Java, Node.js, TypeScript, Angular, Selenium, and MySQL
