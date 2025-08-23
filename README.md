@@ -7,11 +7,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and driven recent CS Undergrad who thrives on solving real-world problems with code. I specialize in backend development and automation, and I’ve led every project and hackathon I’ve participated in — not just as a developer, but as a **team lead** and **vision-setter**. From building an **automated Udemy looter tool** to **end-to-end ticket booking systems**, I focus on quality, creativity, and usability.
+I'm a passionate and driven recent CS Undergrad who thrives on solving real-world problems with code. I specialize in backend development and automation, and I’ve led every project and hackathon I’ve participated in — not just as a developer, but as a **team lead**. I focus on quality, creativity, and usability.
 
-- 🧑‍💻 Currently interning as a Software Developer
-- 🛠️ Skilled in Java, Node.js, TypeScript, Angular, Selenium, and MySQL
-- 🎯 Passionate about automation, system design, and developer experience
+- 🧑‍💻 Currently interning as a Full Stack Developer
+- 🛠️ Skilled in Java, Python, JS, Web Developement, MySQL
+- 🎯 Passionate about automation, cybersecurity and System design
 - 🏅 Class representative for 4 years, international conference attendee, event organizer
 - ⚡ Always seeking to grow and push the limits of what I can build
 
@@ -30,12 +30,11 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-Linux-%23339933.svg?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%23007ACC.svg?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web Developement-DD0031?style=flat&logo=html&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
 </p>
 
 ---
@@ -44,8 +43,7 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
-| **Train Booking System** | Online train reservation system with backend logic & validation | Angular, Node.js, MySQL | [GitHub Repo](https://github.com/YOUR_USERNAME/TrainBookingSystem) |
-| **Developer Portfolio** | Cyberpunk-themed portfolio with animated sections & professional vibe | HTML, CSS, JS | [Live Site](https://your-portfolio-link.com) / [GitHub Repo](https://github.com/YOUR_USERNAME/portfolio) |
+| **Developer Portfolio** | Cyberpunk-themed portfolio with animated sections & professional vibe | HTML, CSS, JS | [Live Site](https://sreedharreddychalla.netlify.app/) / [GitHub Repo](https://github.com/Challa1549) |
 
 ---
 
