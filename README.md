@@ -47,6 +47,7 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
 | **Developer Portfolio** | Cyberpunk-themed portfolio with clean UI and smooth interactions | HTML, CSS, JS | [Live Site](https://sreedharreddychalla.netlify.app/) / [GitHub Repo](https://github.com/Challa1549) |
+| **Rythu Kendra** |  A frontend-focused system for managing fertilizers, stock, and farmer needs | HTML, CSS, Angular, Type Script | [Live Demo](https://rythu-kenra.netlify.app/) / [Github](https://github.com/Challa1549/rythu-kendra) |
 
 ---
 
