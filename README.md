@@ -5,24 +5,24 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I'm a passionate and driven recent CS Undergrad who thrives on solving real-world problems with code. I specialize in backend development and automation, and I’ve led every project and hackathon I’ve participated in — not just as a developer, but as a **team lead**. I focus on quality, usability, and real-world impact.
 
-- 🧑‍💻 Currently interning as a Full Stack Developer  
-- 🛠️ Skilled in Java, Python, JavaScript, Web Development, MySQL  
-- 🎯 Interested in automation, cybersecurity, and system design  
-- 🏅 Class representative for 4 years, international conference attendee, event organizer  
-- ⚡ Focused on building practical and scalable solutions  
+- Currently interning as a Full Stack Developer  
+- Skilled in Java, Python, JavaScript, Web Development, MySQL  
+- Interested in automation, cybersecurity, and system design  
+- Class representative for 4 years, international conference attendee, event organizer  
+- Focused on building practical and scalable solutions  
 
 ---
 
-### 🔭 Current Project
+### Current Project
 
-- 🌱 **Rythu Kendra – Farmer Resource & Inventory Management**  
+- **Rythu Kendra – Farmer Resource & Inventory Management**  
   A frontend-focused system for managing fertilizers, stock, and farmer needs  
-  💡 Tech: Angular + TypeScript + Bootstrap  
-  ✅ Product management, cart & orders system, admin/user dashboards, clean UI system  
+    Tech: Angular + TypeScript + Bootstrap  
+    Product management, cart & orders system, admin/user dashboards, clean UI system  
 
 ---
 
@@ -42,7 +42,7 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech | Links |
 |--------|-------------|------|-------|
@@ -51,23 +51,23 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 
 ---
 
-### 🧠 Leadership & Extras
+### Leadership & Extras
 
-- 🧑‍🏫 Led multiple academic and hackathon projects  
-- 🏆 Class Representative throughout B.Tech  
-- 🌐 Attended international tech conferences  
-- 🎤 Organized and hosted technical events  
+- Led multiple academic and hackathon projects  
+- Class Representative throughout B.Tech  
+- Attended international tech conferences  
+- Organized and hosted technical events  
 
 
-### 📫 Contact
+### Contact
 
-- 💼 LinkedIn: [linkedin.com/in/sreedharreddychalla/](https://www.linkedin.com/in/sreedharreddychalla/)  
-- 📧 Email: challasreedharreddy1549@gmail.com  
-- 🌐 Portfolio: [sreedharreddychalla.netlify.app/](https://sreedharreddychalla.netlify.app/)  
-- 📸 Instagram: [instagram.com/c.sreedhar.reddy/](https://www.instagram.com/c.sreedhar.reddy/)  
+- LinkedIn: [linkedin.com/in/sreedharreddychalla/](https://www.linkedin.com/in/sreedharreddychalla/)  
+- Email: challasreedharreddy1549@gmail.com  
+- Portfolio: [sreedharreddychalla.netlify.app/](https://sreedharreddychalla.netlify.app/)  
+- Instagram: [instagram.com/c.sreedhar.reddy/](https://www.instagram.com/c.sreedhar.reddy/)  
 
 ---
 
-### 💡 Personal Note
+### Personal Note
 
 > I focus on building systems that are not just functional, but clean, usable, and meaningful.
