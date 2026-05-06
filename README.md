@@ -58,15 +58,6 @@ I'm a passionate and driven recent CS Undergrad who thrives on solving real-worl
 - 🌐 Attended international tech conferences  
 - 🎤 Organized and hosted technical events  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Challa1549&show_icons=true&theme=tokyonight" alt="Sreedhar's GitHub Stats"/>
-</p>
-
----
 
 ### 📫 Contact
 
